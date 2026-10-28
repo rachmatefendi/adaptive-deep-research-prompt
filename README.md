@@ -251,7 +251,7 @@ adaptive-deep-research-prompt/
 ├── PROMPT.md                 # Canonical master prompt
 ├── VERSION
 ├── CHANGELOG.md
-├── LICENSE-STATUS.md         # Rights not yet licensed for open reuse
+├── LICENSE                   # MIT License
 ├── docs/
 │   ├── evidence-policy.md
 │   ├── governance-boundaries.md
@@ -277,7 +277,7 @@ adaptive-deep-research-prompt/
 
 **Copyright:** © 2026 Rachmat Efendi.
 
-**License status:** No license has been selected or granted in this package. Publishing a repository is not the same as granting broad reuse rights. Review [`LICENSE-STATUS.md`](LICENSE-STATUS.md) before choosing a public/open-source distribution policy. This prevents an unrequested irreversible license grant.
+**License:** [MIT License](LICENSE), selected by the author on 2026-10-29.
 
 **Status:** Documentation package prepared; empirical reliability, protection against prompt injection, and compliance with every model instruction have not been independently validated.
 

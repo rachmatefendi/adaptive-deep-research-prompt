@@ -11,7 +11,7 @@ This repository package is prepared but **not automatically published**. To crea
 - **Initial release:** `v1.0`
 - **Suggested topics:** `deep-research`, `prompt-engineering`, `research-methodology`, `evidence-based`, `llm`, `research`, `ai-governance`, `decision-support`, `source-verification`.
 - **Visibility:** Decide explicitly (`private` is the safer staging default).
-- **License:** No license selected. Do not claim open-source reuse until the author chooses a license.
+- **License:** MIT (selected 2026-10-29). See [`LICENSE`](../LICENSE).
 
 ## Publish using GitHub website and Git CLI
 
@@ -33,6 +33,6 @@ If HTTPS authentication is preferred, change the origin to `https://github.com/r
 
 4. Add repository description, website, and topics in GitHub Settings / About.
 5. Verify the README, canonical prompt, eight examples, and tag are present.
-6. Choose a publication license separately before inviting broad reuse. If made public without a license, the published content remains under its applicable copyright restrictions.
+6. Confirm the `LICENSE` file (MIT) is present at the repository root.
 
 **Note:** These commands are instructions, not evidence of an online repository, commit, tag, or release being created.

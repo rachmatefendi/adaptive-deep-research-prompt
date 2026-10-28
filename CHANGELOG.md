@@ -1,5 +1,9 @@
 # Changelog
 
+## [Unreleased] — 2026-10-29
+
+- Licensed the repository under the MIT License; replaced `LICENSE-STATUS.md` with `LICENSE`.
+
 ## [1.0] — 2026-10-24
 
 **Initial repository release — documentation package prepared.**
